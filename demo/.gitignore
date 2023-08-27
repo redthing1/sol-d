@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sol_demo_d
+sol_demo_d.so
+sol_demo_d.dylib
+sol_demo_d.dll
+sol_demo_d.a
+sol_demo_d.lib
+sol_demo_d-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
