@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sol-d
+sol-d.so
+sol-d.dylib
+sol-d.dll
+sol-d.a
+sol-d.lib
+sol-d-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+*.a
